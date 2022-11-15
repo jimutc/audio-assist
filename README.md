@@ -7,5 +7,5 @@ MAKE COMPUTERS FUN AGAIN
 PLACE THIS ANYWHERE ON YOUR WEBSITE!
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/jimutc/audio-assist@master/audioassist.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/jimutc/audio-assist@master/audioassist.js" defer></script>
 ```
